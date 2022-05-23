@@ -1,4 +1,4 @@
-### Fala comigo, me chamo Ali Osmar!
+### Olá, me chamo Ali Osmar! Seja bem vindo ao meu perfil
 
 <div align="center">
   <a href="https://github.com/aliosmarchehade">
